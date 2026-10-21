@@ -1,0 +1,76 @@
+TASK MANAGER - PRIVACY POLICY
+
+Effective date: October 15, 2026
+
+This policy explains how the Task Manager app handles information when you use
+it. It describes the app's current behavior.
+
+INFORMATION YOU ENTER
+
+Task Manager lets you create and manage tasks. The information you enter can
+include task names, notes, due dates and times, priority levels, and completion
+status. The app creates an identifier for each task so it can manage your tasks
+and their reminders.
+
+WHERE YOUR INFORMATION IS STORED
+
+Your tasks are stored on your device in the app's local storage. The app does
+not require an account, and the app's current functionality does not send your
+tasks to the app developer or to an app-operated server. The app does not
+provide cloud sync.
+
+Task data remains on your device until you delete it or remove the app. Your
+device's operating system may back up app data if device backup is enabled.
+Those backups are governed by your device provider's settings and policies.
+
+NOTIFICATIONS
+
+If you allow notifications, the app can schedule a local reminder for an
+upcoming task, normally 10 minutes before its due time. For a task due within
+10 minutes, the app may show a reminder immediately. The task name may appear
+in the notification. Reminders are managed on your device; the app does not
+send task details to a notification service operated by the app developer.
+
+The app uses your device's local time zone to schedule reminders. Android may
+also restore scheduled reminders after the device restarts. You can deny or
+revoke notification permission in your device settings. If notifications are
+disabled, reminders may not appear.
+
+SHARING AND TRACKING
+
+The app's current functionality does not include advertising, analytics, or
+account tracking, and it does not sell or share your task information with the
+app developer or other organizations. Notifications are delivered through
+Android's on-device notification system. Device backups, if enabled, are
+controlled by your device provider as described above.
+
+PERMISSIONS
+
+On Android, the app may request permission to show notifications. It also uses
+Android's device-restart event so scheduled reminders can be restored after a
+restart. It does not need access to your contacts, camera, microphone, or
+location for its task-management features.
+
+YOUR CHOICES
+
+You can edit or delete tasks within the app. Deleting a task also cancels its
+pending reminder. You can manage notification permission through Android
+settings. Removing the app removes its local app data, subject to any device
+backup you have enabled.
+
+CHILDREN'S PRIVACY
+
+Task Manager does not require users to provide personal information to the
+developer. If you choose to put personal information in a task name or note,
+that information is stored locally as described above.
+
+CHANGES TO THIS POLICY
+
+This policy may be updated if the app's functionality or data practices change.
+The effective date at the top will be updated when a revised policy is issued.
+
+CONTACT
+
+For questions or privacy requests, contact the app developer:
+[Add the app developer's privacy contact email here]
+
